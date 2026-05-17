@@ -2,6 +2,8 @@
 
 QA Command Center — coverage view, built from `coverage-matrix-spec.md`.
 
+Open-source example: an Amazon-style cart/checkout app used as a sample integration of the TCMS framework.
+
 ## Run
 
 ```
