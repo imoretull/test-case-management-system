@@ -1,0 +1,58 @@
+[
+  {
+    "story_key": "AMZN-1382",
+    "title": "Cart v2 redesign",
+    "epic": "AMZN-1300 Checkout UX overhaul",
+    "sprint": "S42",
+    "status": "Done"
+  },
+  {
+    "story_key": "AMZN-1456",
+    "title": "Prime cart persistence",
+    "epic": "AMZN-1455 Prime member experience",
+    "sprint": "S42",
+    "status": "Done"
+  },
+  {
+    "story_key": "AMZN-1457",
+    "title": "Guest checkout flow",
+    "epic": "AMZN-1300 Checkout UX overhaul",
+    "sprint": "S42",
+    "status": "Done"
+  },
+  {
+    "story_key": "AMZN-1458",
+    "title": "Out-of-stock add to cart handling",
+    "epic": "AMZN-1300 Checkout UX overhaul",
+    "sprint": "S43",
+    "status": "In Progress"
+  },
+  {
+    "story_key": "AMZN-1459",
+    "title": "Payment retry on declined card",
+    "epic": "AMZN-1300 Checkout UX overhaul",
+    "sprint": "S43",
+    "status": "In Progress"
+  },
+  {
+    "story_key": "AMZN-1461",
+    "title": "1-Click ordering",
+    "epic": "AMZN-1460 1-Click feature",
+    "sprint": "S41",
+    "status": "Done"
+  },
+  {
+    "story_key": "AMZN-1462",
+    "title": "Wishlist add and move to cart",
+    "epic": "AMZN-1455 Prime member experience",
+    "sprint": "S42",
+    "status": "Done"
+  },
+  {
+    "story_key": "AMZN-1463",
+    "title": "Promo code application",
+    "epic": "AMZN-1300 Checkout UX overhaul",
+    "sprint": "S42",
+    "status": "Done"
+  }
+]

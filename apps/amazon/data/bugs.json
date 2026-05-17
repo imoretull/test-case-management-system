@@ -1,0 +1,46 @@
+[
+  {
+    "jira_key": "AMZN-1502",
+    "title": "Cart empty after re-login on iOS Safari",
+    "severity": "S2",
+    "found_in": "prod",
+    "story_keys": ["AMZN-1456"],
+    "linked_case_ids": [],
+    "linked_automated_test_ids": [],
+    "opened_at": "5d ago",
+    "closed_at": null
+  },
+  {
+    "jira_key": "AMZN-1510",
+    "title": "Adding out-of-stock item silently succeeds, cart shows phantom row",
+    "severity": "S1",
+    "found_in": "prod",
+    "story_keys": ["AMZN-1458"],
+    "linked_case_ids": [],
+    "linked_automated_test_ids": [],
+    "opened_at": "3d ago",
+    "closed_at": null
+  },
+  {
+    "jira_key": "AMZN-1511",
+    "title": "Out-of-stock badge missing on PDP after sellout during session",
+    "severity": "S2",
+    "found_in": "prod",
+    "story_keys": ["AMZN-1458"],
+    "linked_case_ids": [],
+    "linked_automated_test_ids": [],
+    "opened_at": "2d ago",
+    "closed_at": null
+  },
+  {
+    "jira_key": "AMZN-1515",
+    "title": "Promo code field accepts leading whitespace, rejects valid codes",
+    "severity": "S3",
+    "found_in": "prod",
+    "story_keys": ["AMZN-1463"],
+    "linked_case_ids": ["tc_029"],
+    "linked_automated_test_ids": [],
+    "opened_at": "1d ago",
+    "closed_at": null
+  }
+]

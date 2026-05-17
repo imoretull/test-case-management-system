@@ -1,0 +1,25 @@
+{
+  "name": "@tcms/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "tcms-server": "./src/cli.ts"
+  },
+  "scripts": {
+    "dev": "tsx watch src/cli.ts",
+    "dev:amazon": "tsx watch src/cli.ts --data ../../apps/amazon/data --app ../../apps/amazon --port 3030",
+    "start": "tsx src/cli.ts"
+  },
+  "dependencies": {
+    "@tcms/framework": "workspace:*",
+    "chokidar": "^4.0.1",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.10.2",
+    "tsx": "4.16.5",
+    "typescript": "^5.6.3"
+  }
+}

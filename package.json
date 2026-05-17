@@ -1,0 +1,15 @@
+{
+  "name": "tcms",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Test Case Management System — framework + per-product apps",
+  "scripts": {
+    "dev": "concurrently -n server,web -c green,cyan \"pnpm --filter @tcms/server dev:amazon\" \"pnpm --filter amazon dev\"",
+    "build": "pnpm -r build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "typescript": "^5.6.3"
+  },
+  "packageManager": "pnpm@9.0.0"
+}
